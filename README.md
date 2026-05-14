@@ -66,10 +66,9 @@ cp .env.example .env.local
 
 Edite o arquivo e adicione suas credenciais:
 ```env
-GEMINI_API_KEY=sua_chave_aqui
-SMTP_HOST=smtp.gmail.com
-SMTP_USER=seu-email@gmail.com
-SMTP_PASS=sua-senha-app
+SMTP_HOST: smtp.gmail.com
+SMTP_USER: kebradanas@gmail.com
+SMTP_PASS: iwgr ezaj uudy kikx
 ```
 
 ### Executar em Desenvolvimento
