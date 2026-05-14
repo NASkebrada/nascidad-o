@@ -1,0 +1,13 @@
+{
+  "name": "Remix: NAS Cidadão",
+  "description": "Aplicativo de fiscalização popular e engajamento cívico para Nova Alvorada do Sul.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "ai-powered-analytics",
+    "real-time-mapping"
+  ]
+}
